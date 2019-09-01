@@ -44,6 +44,7 @@
 
 <hr>
 <h4>Utilização da API:</h4>
+
 - git clone `https://github.com/raphael-ferreira/challenge-bravo.git`
 - cd `caminho do projeto`
 - npm i
